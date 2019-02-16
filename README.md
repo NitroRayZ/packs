@@ -1,2 +1,2 @@
 # packs
-Miencraft Packs, wait wtf
+Miencraft Packs, wait a minute
